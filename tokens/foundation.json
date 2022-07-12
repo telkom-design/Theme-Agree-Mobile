@@ -849,53 +849,6 @@
       "description": "Text"
     }
   },
-  "MKT": {
-    "25": {
-      "value": "#fafdf7",
-      "type": "color"
-    },
-    "50": {
-      "value": "#f5fbee",
-      "type": "color"
-    },
-    "100": {
-      "value": "#e6f4d7",
-      "type": "color"
-    },
-    "200": {
-      "value": "#ceeab0",
-      "type": "color"
-    },
-    "300": {
-      "value": "#acdc79",
-      "type": "color"
-    },
-    "400": {
-      "value": "#86cb3c",
-      "type": "color"
-    },
-    "500": {
-      "value": "#669f2a",
-      "type": "color",
-      "description": "Main Color"
-    },
-    "600": {
-      "value": "#4f7a21",
-      "type": "color"
-    },
-    "700": {
-      "value": "#3f621a",
-      "type": "color"
-    },
-    "800": {
-      "value": "#335015",
-      "type": "color"
-    },
-    "900": {
-      "value": "#2b4212",
-      "type": "color"
-    }
-  },
   "AGR": {
     "25": {
       "value": "#f9fbf9",
